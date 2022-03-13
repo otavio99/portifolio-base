@@ -1,5 +1,7 @@
 title: Vonge
 
+baseurl: ""
+
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
