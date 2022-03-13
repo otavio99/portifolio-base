@@ -76,7 +76,7 @@ defaults:
       type: pages
       path: _pages/index.html
     values:
-      permalink: /portifolio-base
+      permalink: /
   - scope:
       type: projects
     values:
